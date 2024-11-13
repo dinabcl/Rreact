@@ -1,0 +1,18 @@
+[
+    {"id":"1",
+    "name":"Coca Cola",
+    "category": "Drink",
+    "price":1,
+    "stock":"yes",
+    "image":"react-app/assets/download.jpg",
+    "description" : "Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. In 2013, Coke products were sold in over 200 countries and territories worldwide, with consumers drinking more than 1.8 billion company beverage servings each day."
+},   
+ {"id":"2",
+"name":"Fanta",
+"category": "Drink",
+"price":1,
+"stock":"yes",
+"image":"react-app/assets/images.jpg",
+"description" : "Fanta is an American-owned brand of fruit-flavored carbonated soft drink created by Coca-Cola Deutschland under the leadership of German businessman Max Keith. "
+}
+]
